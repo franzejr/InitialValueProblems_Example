@@ -3,9 +3,10 @@ In mathematics, in the field of differential equations, an initial value problem
 
 #Ordinary Differential Equation
 In this code, we are using this ODE:
-<i>dy/dt = -20 * y + 7 * Math.exp(-0.5 * t);</i>
 
-<b>Initial Value = 5.0</b>
+dy/dt = -20 * y + 7 * Math.exp(-0.5 * t)
+
+**Initial Value** = 5.0
 
 #Methods
 + Modified Euler
