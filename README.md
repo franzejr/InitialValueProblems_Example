@@ -6,6 +6,11 @@ In this code, we are using this ODE:
 
 dy/dt = -20 * y + 7 * Math.exp(-0.5 * t)
 
+##Function:
+Solving analytic
+
+y = (7/19.5)*exp(-0.5*t)+4.6410256410256410256410256410256*exp(-20*t)
+
 **Initial Value** = 5.0
 
 #Methods
